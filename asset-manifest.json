@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f361ddb.css",
-    "main.js": "/static/js/main.87f30be5.js",
+    "main.css": "/static/css/main.fb239123.css",
+    "main.js": "/static/js/main.55b839e3.js",
     "static/js/453.75205b9f.chunk.js": "/static/js/453.75205b9f.chunk.js",
     "static/media/Christian bei Rainer.jpg": "/static/media/Christian bei Rainer.ca3759cb73b48957924f.jpg",
     "static/media/Christian im Altenheim.jpg": "/static/media/Christian im Altenheim.a21404416ca13c02414e.jpg",
     "static/media/Christian Kinderriegel.jpg": "/static/media/Christian Kinderriegel.f65a245d756d590d1d66.jpg",
     "static/media/Christian Wahlplakat.jpg": "/static/media/Christian Wahlplakat.89cfbc0562a6c56b5e7a.jpg",
     "static/media/adobestock301516754_0.jpeg": "/static/media/adobestock301516754_0.8f4bd39400c5110d4b98.jpeg",
+    "static/media/Cog_Design.png": "/static/media/Cog_Design.130473c3f327837c2f98.png",
+    "static/media/App_Bubbles.png": "/static/media/App_Bubbles.872704738426d2f13953.png",
     "static/media/Christian.jpg": "/static/media/Christian.9e9d66340298d369c915.jpg",
     "static/media/weisse-Katzen.jpg": "/static/media/weisse-Katzen.13573c5830fd6455ca60.jpg",
     "static/media/220px-Arothron_meleagris_by_NPS_1.jpg": "/static/media/220px-Arothron_meleagris_by_NPS_1.444f2d6c953bee50a524.jpg",
     "static/media/Almalinux-logo-white-v2_jzMVHfK.png": "/static/media/Almalinux-logo-white-v2_jzMVHfK.6534fa9a9226d797be99.png",
-    "static/media/roboto-v30-latin-regular.woff2": "/static/media/roboto-v30-latin-regular.b009a76ad6afe4ebd301.woff2",
+    "static/media/roboto-slab-v34-latin-regular.woff2": "/static/media/roboto-slab-v34-latin-regular.b38bdd22bfa35a662f38.woff2",
     "index.html": "/index.html",
-    "main.6f361ddb.css.map": "/static/css/main.6f361ddb.css.map",
-    "main.87f30be5.js.map": "/static/js/main.87f30be5.js.map",
+    "main.fb239123.css.map": "/static/css/main.fb239123.css.map",
+    "main.55b839e3.js.map": "/static/js/main.55b839e3.js.map",
     "453.75205b9f.chunk.js.map": "/static/js/453.75205b9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f361ddb.css",
-    "static/js/main.87f30be5.js"
+    "static/css/main.fb239123.css",
+    "static/js/main.55b839e3.js"
   ]
 }
