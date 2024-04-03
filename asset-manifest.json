@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.385c8bb8.css",
-    "main.js": "/static/js/main.883236b7.js",
+    "main.css": "/static/css/main.ec5340a9.css",
+    "main.js": "/static/js/main.26e254bd.js",
     "static/js/453.75205b9f.chunk.js": "/static/js/453.75205b9f.chunk.js",
     "static/media/Christian bei Rainer.jpg": "/static/media/Christian bei Rainer.ca3759cb73b48957924f.jpg",
-    "static/media/Hero_Graphic.svg": "/static/media/Hero_Graphic.d09eb0cbaaffeb486940dc28294d1316.svg",
     "static/media/Christian im Altenheim.jpg": "/static/media/Christian im Altenheim.a21404416ca13c02414e.jpg",
     "static/media/Christian Kinderriegel.jpg": "/static/media/Christian Kinderriegel.f65a245d756d590d1d66.jpg",
     "static/media/Christian Wahlplakat.jpg": "/static/media/Christian Wahlplakat.89cfbc0562a6c56b5e7a.jpg",
@@ -18,12 +17,12 @@
     "static/media/roboto-slab-v34-latin-regular.woff2": "/static/media/roboto-slab-v34-latin-regular.b38bdd22bfa35a662f38.woff2",
     "static/media/EyeCog_Logo.svg": "/static/media/EyeCog_Logo.a2cd7fd1272402b588066f5a8855b891.svg",
     "index.html": "/index.html",
-    "main.385c8bb8.css.map": "/static/css/main.385c8bb8.css.map",
-    "main.883236b7.js.map": "/static/js/main.883236b7.js.map",
+    "main.ec5340a9.css.map": "/static/css/main.ec5340a9.css.map",
+    "main.26e254bd.js.map": "/static/js/main.26e254bd.js.map",
     "453.75205b9f.chunk.js.map": "/static/js/453.75205b9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.385c8bb8.css",
-    "static/js/main.883236b7.js"
+    "static/css/main.ec5340a9.css",
+    "static/js/main.26e254bd.js"
   ]
 }
