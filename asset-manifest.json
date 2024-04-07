@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed8e790b.css",
-    "main.js": "/static/js/main.b9b3b084.js",
+    "main.css": "/static/css/main.5af1cbf3.css",
+    "main.js": "/static/js/main.a46d9fdd.js",
     "static/js/453.75205b9f.chunk.js": "/static/js/453.75205b9f.chunk.js",
     "static/media/Christian bei Rainer.jpg": "/static/media/Christian bei Rainer.ca3759cb73b48957924f.jpg",
     "static/media/Christian im Altenheim.jpg": "/static/media/Christian im Altenheim.a21404416ca13c02414e.jpg",
@@ -17,12 +17,12 @@
     "static/media/roboto-slab-v34-latin-regular.woff2": "/static/media/roboto-slab-v34-latin-regular.b38bdd22bfa35a662f38.woff2",
     "static/media/EyeCog_Logo.svg": "/static/media/EyeCog_Logo.a2cd7fd1272402b588066f5a8855b891.svg",
     "index.html": "/index.html",
-    "main.ed8e790b.css.map": "/static/css/main.ed8e790b.css.map",
-    "main.b9b3b084.js.map": "/static/js/main.b9b3b084.js.map",
+    "main.5af1cbf3.css.map": "/static/css/main.5af1cbf3.css.map",
+    "main.a46d9fdd.js.map": "/static/js/main.a46d9fdd.js.map",
     "453.75205b9f.chunk.js.map": "/static/js/453.75205b9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed8e790b.css",
-    "static/js/main.b9b3b084.js"
+    "static/css/main.5af1cbf3.css",
+    "static/js/main.a46d9fdd.js"
   ]
 }
