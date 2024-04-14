@@ -1,21 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f423998.css",
-    "main.js": "/static/js/main.b9e2d8e3.js",
-    "static/css/677.406d607e.chunk.css": "/static/css/677.406d607e.chunk.css",
-    "static/js/677.8abe8f2e.chunk.js": "/static/js/677.8abe8f2e.chunk.js",
-    "static/css/16.bb387207.chunk.css": "/static/css/16.bb387207.chunk.css",
-    "static/js/16.c0f29d34.chunk.js": "/static/js/16.c0f29d34.chunk.js",
-    "static/css/452.26d02c5c.chunk.css": "/static/css/452.26d02c5c.chunk.css",
-    "static/js/452.d763344e.chunk.js": "/static/js/452.d763344e.chunk.js",
-    "static/css/511.b67814d8.chunk.css": "/static/css/511.b67814d8.chunk.css",
-    "static/js/511.8070cf7c.chunk.js": "/static/js/511.8070cf7c.chunk.js",
-    "static/css/874.31d6cfe0.chunk.css": "/static/css/874.31d6cfe0.chunk.css",
-    "static/js/874.6e3d3213.chunk.js": "/static/js/874.6e3d3213.chunk.js",
+    "main.css": "/static/css/main.cf4a9a03.css",
+    "main.js": "/static/js/main.8b3000f1.js",
+    "static/css/356.7a56c4e7.chunk.css": "/static/css/356.7a56c4e7.chunk.css",
+    "static/js/356.af41a8a1.chunk.js": "/static/js/356.af41a8a1.chunk.js",
     "static/js/453.75205b9f.chunk.js": "/static/js/453.75205b9f.chunk.js",
-    "static/js/662.78ec37e7.chunk.js": "/static/js/662.78ec37e7.chunk.js",
-    "static/js/462.c08c0d07.chunk.js": "/static/js/462.c08c0d07.chunk.js",
-    "static/js/154.658a8d03.chunk.js": "/static/js/154.658a8d03.chunk.js",
+    "static/js/166.e20e2df1.chunk.js": "/static/js/166.e20e2df1.chunk.js",
     "static/media/Christian bei Rainer.jpg": "/static/media/Christian bei Rainer.ca3759cb73b48957924f.jpg",
     "static/media/Christian im Altenheim.jpg": "/static/media/Christian im Altenheim.a21404416ca13c02414e.jpg",
     "static/media/Christian Kinderriegel.jpg": "/static/media/Christian Kinderriegel.f65a245d756d590d1d66.jpg",
@@ -30,24 +20,15 @@
     "static/media/roboto-slab-v34-latin-regular.woff2": "/static/media/roboto-slab-v34-latin-regular.b38bdd22bfa35a662f38.woff2",
     "static/media/EyeCog_Logo.svg": "/static/media/EyeCog_Logo.a2cd7fd1272402b588066f5a8855b891.svg",
     "index.html": "/index.html",
-    "main.4f423998.css.map": "/static/css/main.4f423998.css.map",
-    "main.b9e2d8e3.js.map": "/static/js/main.b9e2d8e3.js.map",
-    "677.406d607e.chunk.css.map": "/static/css/677.406d607e.chunk.css.map",
-    "677.8abe8f2e.chunk.js.map": "/static/js/677.8abe8f2e.chunk.js.map",
-    "16.bb387207.chunk.css.map": "/static/css/16.bb387207.chunk.css.map",
-    "16.c0f29d34.chunk.js.map": "/static/js/16.c0f29d34.chunk.js.map",
-    "452.26d02c5c.chunk.css.map": "/static/css/452.26d02c5c.chunk.css.map",
-    "452.d763344e.chunk.js.map": "/static/js/452.d763344e.chunk.js.map",
-    "511.b67814d8.chunk.css.map": "/static/css/511.b67814d8.chunk.css.map",
-    "511.8070cf7c.chunk.js.map": "/static/js/511.8070cf7c.chunk.js.map",
-    "874.6e3d3213.chunk.js.map": "/static/js/874.6e3d3213.chunk.js.map",
+    "main.cf4a9a03.css.map": "/static/css/main.cf4a9a03.css.map",
+    "main.8b3000f1.js.map": "/static/js/main.8b3000f1.js.map",
+    "356.7a56c4e7.chunk.css.map": "/static/css/356.7a56c4e7.chunk.css.map",
+    "356.af41a8a1.chunk.js.map": "/static/js/356.af41a8a1.chunk.js.map",
     "453.75205b9f.chunk.js.map": "/static/js/453.75205b9f.chunk.js.map",
-    "662.78ec37e7.chunk.js.map": "/static/js/662.78ec37e7.chunk.js.map",
-    "462.c08c0d07.chunk.js.map": "/static/js/462.c08c0d07.chunk.js.map",
-    "154.658a8d03.chunk.js.map": "/static/js/154.658a8d03.chunk.js.map"
+    "166.e20e2df1.chunk.js.map": "/static/js/166.e20e2df1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f423998.css",
-    "static/js/main.b9e2d8e3.js"
+    "static/css/main.cf4a9a03.css",
+    "static/js/main.8b3000f1.js"
   ]
 }
